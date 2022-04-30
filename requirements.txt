@@ -1,0 +1,3 @@
+black
+pyinstaller==5.0.1
+pyWinCoreAudio @ https://github.com/kdschlosser/pyWinCoreAudio/archive/develop.zip
