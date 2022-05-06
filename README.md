@@ -6,6 +6,7 @@ switch default device to secondary.
 
 If default audio device is other one then switch to primary.
 ## Dependency
+- Python 3.10.4
 - pyWinCoreAudio
 - pyinstaller
 
