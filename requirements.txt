@@ -1,3 +1,9 @@
+# linter
 black
+
+# pyinstaller
 pyinstaller==5.0.1
+
+# libs
 pyWinCoreAudio @ https://github.com/kdschlosser/pyWinCoreAudio/archive/develop.zip
+comtypes==1.1.11
